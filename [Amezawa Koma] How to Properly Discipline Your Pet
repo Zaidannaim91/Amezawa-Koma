@@ -1,0 +1,25 @@
+{
+   "title":"[Amezawa Koma] How to Properly Discipline Your Pet",
+   "description":"",
+   "author":"Amezawa Koma",
+   "artist":"Amezawa Koma",
+   "cover":"https://i.imgur.com/RObav7v.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/8PURBQt"
+         },
+         "last_updated":1624606143,
+         "title":"How to Properly Discipline Your Pet",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/bhoI0d2"
+         },
+         "last_updated":1624606143,
+         "title":"The Proper Way to Treat Your Pet",
+         "volume":"2"
+      }
+   }
+}
